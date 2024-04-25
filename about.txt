@@ -2,4 +2,4 @@ A test task made from
 https://www.figma.com/file/E1Uy4MnJgSpWoDv6XTc8Rz/Bloggers-platform-(Copy)-(Copy)?node-id=0:1&mode=dev
 
 deployed to
-https://aaa.netlify.app/
+https://oleksandrs-test-landing-page.vercel.app/

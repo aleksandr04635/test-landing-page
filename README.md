@@ -1,5 +1,7 @@
 ## A test task of a landing page creation by Oleksand Liashchenko
 
+Deployed [here](https://oleksandrs-test-landing-page.vercel.app/)
+
 <!-- <div align="justify">
           <div className="text-md flex flex-col gap-4">
           <p>
